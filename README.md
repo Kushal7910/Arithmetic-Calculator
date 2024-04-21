@@ -1,1 +1,3 @@
 # Arithmetic-Calculator
+
+The Arithmetic Calculator project is a simple Python program designed to provide basic arithmetic functionalities. Whether you need to perform addition, subtraction, multiplication, or division, this calculator offers a user-friendly interface to quickly obtain accurate results. Built with Python, it serves as a useful tool for anyone looking to perform elementary arithmetic operations without the need for complex software. With its straightforward design and easy-to-follow prompts, the Arithmetic Calculator simplifies calculations, making it a handy utility for everyday use.
